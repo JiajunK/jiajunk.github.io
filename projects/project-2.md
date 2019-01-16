@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: Verizon App Challenge: Malama
+title: Verizon App Challenge: Malama
+permalink: project/malama
 # All dates must be YYYY-MM-DD format!
 date: 2016-11-17
 labels:
