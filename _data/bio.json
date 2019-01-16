@@ -30,23 +30,20 @@
   "interests": [
     {
       "name": "Gaming",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
-      "name": "graphic design",
-      "keywords": [
-      ]
+      "name": "Graphic Design",
+      "keywords": []
     },
     {
       "name": "software programming",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programing Languages",
       "level": "",
       "keywords": [
         "Java",
@@ -55,12 +52,11 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Linguistic Languages",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
+        "Japanese",
+        "Mandarin",
         "g++",
         "TI LaunchPad"
       ]
@@ -81,6 +77,16 @@
         "ICS 241: Discrete Mathematics II",
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering"
+      ]
+    },
+    {
+      "institution": "Waseda University",
+      "area": "Summer Exchange Program ",
+      "studyType": "Japanese",
+      "endDate": "2018",
+      "courses": [
+        "Japanese Literature and Art",
+        "Japanese Culture"
       ]
     }
   ],
@@ -106,6 +112,16 @@
       "highlights": [
         "Help customers with questions or complaints.",
         "Primary guide for Whale Watch tours"
+      ]
+    },
+    {
+      "company": "Brug Bakery",
+      "position": "Cashier",
+      "startDate": "1/1/2016",
+      "endDate": "3/31/2016",
+      "summary": "Cashiering for the bakery in the old Shirokiya",
+      "highlights": [
+        "Doing cashier duties in Brug Bakery"
       ]
     }
   ],
