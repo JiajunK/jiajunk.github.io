@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jiajun Kang",
     "label": "ICS and Japanese undergraduate student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://github.com/JiajunK/jiajunk.github.io/blob/master/20181201_174155.jpg",
     "email": "jiajunk@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://jiajunk.github.io",
@@ -43,8 +43,13 @@
   ],
   "skills": [
     {
+<<<<<<< HEAD
       "name": "Programing Languages",
       "level": "",
+=======
+      "name": "Programming Languages",
+      "level": "Intermediate",
+>>>>>>> d112523474fae0be9419ed2c7274a801058174fc
       "keywords": [
         "Java",
         "Javascript",
@@ -99,7 +104,8 @@
       "endDate": "Present",
       "summary": "Front desk agent of Prince Waikiki hotel",
       "highlights": [
-        "Set the first impression for hotel guests, check-in, check-out, answer guest questions. Handles complaints professionally."
+        "Set the first impression for hotel guests, check-in, check-out, answer guest questions.",
+        "Handles complaints professionally."
       ]
     },
     {
@@ -111,7 +117,7 @@
       "summary": "Translation for international guests",
       "highlights": [
         "Help customers with questions or complaints.",
-        "Primary guide for Whale Watch tours"
+        "Primary guide for Whale Watch tours."
       ]
     },
     {
