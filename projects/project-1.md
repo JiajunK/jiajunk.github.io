@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Air Hocky
-permalink: projects/micromouse
+permalink: projects/airhocky
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-10
 labels:
