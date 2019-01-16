@@ -46,8 +46,8 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Programming Languages",
+      "level": "Intermediate",
       "keywords": [
         "Java",
         "Javascript",
@@ -93,7 +93,8 @@
       "endDate": "Present",
       "summary": "Front desk agent of Prince Waikiki hotel",
       "highlights": [
-        "Set the first impression for hotel guests, check-in, check-out, answer guest questions. Handles complaints professionally."
+        "Set the first impression for hotel guests, check-in, check-out, answer guest questions.",
+        "Handles complaints professionally."
       ]
     },
     {
@@ -105,7 +106,7 @@
       "summary": "Translation for international guests",
       "highlights": [
         "Help customers with questions or complaints.",
-        "Primary guide for Whale Watch tours"
+        "Primary guide for Whale Watch tours."
       ]
     }
   ],
