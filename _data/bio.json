@@ -43,13 +43,10 @@
   ],
   "skills": [
     {
-<<<<<<< HEAD
       "name": "Programing Languages",
       "level": "",
-=======
       "name": "Programming Languages",
       "level": "Intermediate",
->>>>>>> d112523474fae0be9419ed2c7274a801058174fc
       "keywords": [
         "Java",
         "Javascript",
@@ -72,7 +69,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "August 2017",
+      "startDate": "Aug 2017",
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
@@ -100,7 +97,7 @@
       "company": "Prince Waikiki",
       "position": "Guest Services Ambassador",
       "website": "http://www.princewaikiki.com",
-      "startDate": "December 2018",
+      "startDate": "Dec 2018",
       "endDate": "Present",
       "summary": "Front desk agent of Prince Waikiki hotel",
       "highlights": [
@@ -112,7 +109,7 @@
       "company": "Star of Honolulu",
       "position": "Aloha Ambassador/Whale Watch Natrualist",
       "website": "http://www.starofhonolulu.com",
-      "startDate": "December 2016",
+      "startDate": "Dec 2016",
       "endDate": "Present",
       "summary": "Translation for international guests",
       "highlights": [
@@ -135,7 +132,7 @@
     {
       "organization": "National Oceanic and Atmospheric Administration",
       "website": "http://noaa.gov",
-      "startDate": "September 2018",
+      "startDate": "Sep 2018",
       "endDate": "Present",
       "summary": "Protecting Hawaiian Wildlife from Tourists Project",
       "highlights": [
