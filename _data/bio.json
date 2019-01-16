@@ -22,36 +22,24 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "jiajunk",
         "url": "http://www.linkedin.com/in/jiajunk"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Paladins",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "graphic design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "software programming",
       "keywords": [
       ]
     }
@@ -61,12 +49,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML"
       ]
     },
     {
@@ -88,8 +73,14 @@
       "studyType": "B.S.",
       "startDate": "August 2017",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.75",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 241",
+        "ICS 311",
+        "ICS 314"
       ]
     }
   ],
