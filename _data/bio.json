@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Paladins",
+      "name": "Gaming",
       "keywords": [
       ]
     },
@@ -75,82 +75,60 @@
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
-        "ICS 111",
-        "ICS 141",
-        "ICS 211",
-        "ICS 241",
-        "ICS 311",
-        "ICS 314"
+        "ICS 111: Introduction to Computer Science I",
+        "ICS 141: Discrete Mathematics I",
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 241: Discrete Mathematics II",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Prince Waikiki",
+      "position": "Guest Services Ambassador",
+      "website": "http://www.princewaikiki.com",
+      "startDate": "December 2018",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Front desk agent of Prince Waikiki hotel",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Set the first impression for hotel guests, check-in, check-out, answer guest questions. Handles complaints professionally."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Star of Honolulu",
+      "position": "Aloha Ambassador/Whale Watch Natrualist",
+      "website": "http://www.starofhonolulu.com",
+      "startDate": "December 2016",
+      "endDate": "Present",
+      "summary": "Translation for international guests",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Help customers with questions or complaints.",
+        "Primary guide for Whale Watch tours"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "National Oceanic and Atmospheric Administration",
+      "website": "http://noaa.gov",
+      "startDate": "September 2018",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Protecting Hawaiian Wildlife from Tourists Project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Diagnose the problem with Japanese tourists coming to Hawaii",
+        "Work with NOAA to combat the problem"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2017-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
   "references": [
     {
       "name": "Available upon request",
