@@ -2,43 +2,105 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Air Hocky
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-12-10
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - College Project
+  - Java
+summary: My team developed a simple air hocky game on Eclipes.
 ---
+img class="ui image" src="airhocky.png">
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+My first major project as an ICS student was creating an air hocky game using Java. Five month prior to creating this project I only learned how to print Hello World with Java. Fortunately with the help of some outside libraries and my awesome professors and TAs, I was able to complete a project such as this one. Hopefully this game will be a good guideline to see my development and growth as a programmer. 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is the code for the main function:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+public static void main(String[] args) throws java.io.IOException
+	{
+		//Opening the map
+		File table = new File("table");
+									
+		//scanning the map
+		Scanner scan = new Scanner(table);
+							
+		//reading first 2 numbers to determine the size of canvas
+		int width = scan.nextInt();
+		int height = scan.nextInt();
+						
+		//Initializing screen
+		EZ.initialize(width * 32 - 5, height *32 -25);
+		EZ.setBackgroundColor(new Color(23, 137, 24));
+		
+		EZ.addImage("table.png", 480, 305);
+		
+		//Run function setUp in object map
+		Map map = new Map();
+		map.setUp();
+		
+		
+		//initialize the clock text
+		clock = EZ.addText(492, 100, "", Color.BLACK, 50);
+		
+		//score for player1
+		EZ.addText("BAUHS93.TTF", 200, 100, "Player 1: ", Color.RED, 50);
+		score1 = EZ.addText("BAUHS93.TTF", 320, 100, "", Color.RED, 50);
+		//score for player2
+		EZ.addText("BAUHS93.TTF", 760, 100, "Player 2: ", Color.BLUE, 50);
+		score2 = EZ.addText("BAUHS93.TTF", 870, 100, "", Color.BLUE, 50);
+		
+		//load pucks
+		Puck puck = new Puck("Puck.png", 500, 300, 5, 5);
+		
+		//load player pucks					
+		Striker player1 = new Striker("Striker.png",250,300, 'w', 's', 'a', 'd', 'b');
+		StrikerTwo player2 = new StrikerTwo("Striker2.png",750,300,'i','k', 'j', 'l');
+		
+		//background music
+		bgm.play();
+		
+		while(gameState == 0)
+		{
+			timer();
+			player1.controlStriker();
+			player2.controlStriker();
+			puck.puckBehavior();
+			
+			 
+			if (player1.strikerX()>455)
+			{
+				Striker.posx=Striker.posx-5;
+			}
+			if (player2.strikerX()<535)
+			{
+				StrikerTwo.posx=StrikerTwo.posx+5;
+			}
+			EZ.refreshScreen();
+			
+		} //while(true)
+		
+		//end game text
+		if(Puck.point1 > Puck.point2)
+		{
+			EZ.addText("BAUHS93.TTF", 492, 300, "Player 1 Wins! ", Color.RED, 50);
+			bgm.stop();
+			victory.play();
+		}
+		else
+		{
+			EZ.addText("BAUHS93.TTF", 492, 300, "Player 2 Wins! ", Color.BLUE, 50);
+			bgm.stop();
+			victory.play();
+		}
+	
+	} //main
+
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
