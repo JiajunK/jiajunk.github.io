@@ -3,23 +3,16 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Vacay
-permalink: projects/vacay
+permalink: Verizon App Challenge: Malama
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-11-17
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Concept
+  - Mobile App
+  - Film Project
+summary: An emergency app concept to aid potential victims of kidnapping, harassment, and/or assult.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The concept of the app we named "Malama" was an always listening app that will aid you by triggering specific key words. Say you are running alone, had a night out from the club, or just in potential danger. By using custom key words such as "help me malama," "don't come closer," "I need help", the app will trigger a social alarm. Specified contacts will receive text messages asking for help and will include the location. Specified social media accounts will automatically post the location and automated help message as well. User may opt to call the emergency line, record audio, or record video. The concept of this phone app is still in the air and perhaps in the future I will make this app happen.  
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Watch more at the following link: <a href="https://youtu.be/OXeyv5PitrQ">
