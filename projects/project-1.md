@@ -11,7 +11,7 @@ labels:
   - Java
 summary: My team developed a simple air hocky game on Eclipes.
 ---
-img class="ui image" src="airhocky.PNG">
+<img src="airhocky.PNG">
 
 My first major project as an ICS student was creating an air hocky game using Java. Five month prior to creating this project I only learned how to print Hello World with Java. Fortunately with the help of some outside libraries and my awesome professors and TAs, I was able to complete a project such as this one. Hopefully this game will be a good guideline to see my development and growth as a programmer. 
 
