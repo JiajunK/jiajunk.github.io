@@ -24,6 +24,7 @@ Fortunately for me, this was not the first time coding in JavaScript. Unfortunat
 <img src="/images/javascript.PNG">
 This image does not even have all the exercises in yet.
 <br>
+<br>
 <p style="padding-right: 5px;">
 The core of JavaScript was not too far off from Java, which made a lot of these exercises easier to process in my mind. 
 Thing such as for loops and while loops had the general same format. Of course, comparisons and math were very similar as well. 
@@ -34,6 +35,7 @@ So far, JavaScript has not caused myself any troubles, and I can see myself usin
 For a code that runs a webpage, I think it is sufficient to fulfill its duties. 
 What does not fulfill its duties sufficiently on the other end, was the website itself.
 </p>
+<br>
 <br>
 <p style="padding-right: 5px;">
 Free code camp is a great place to start off JavaScript for free. 
