@@ -20,7 +20,10 @@ Reflection on JavaScript
 As a assignment for ICS314, we were tasked to do what felt like a billion JavaScript practices on 
   <a href="https://www.FreeCodeCamp.com">Free Code Camp</a>
 Fortunately for me, this was not the first time coding in JavaScript. Unfortunately for me, the website was faulty and I had to redo half of the exercises.
+ <br>
 <img src="/images/javascript.PNG">
+This image does not even have all the exercises in yet.
+<br>
 The core of JavaScript was not too far off from Java, which made a lot of these exercises easier to process in my mind. 
 Thing such as for loops and while loops had the general same format. Of course, comparisons and math were very similar as well. 
 Something that threw me off guard was making objects and arrays. 
