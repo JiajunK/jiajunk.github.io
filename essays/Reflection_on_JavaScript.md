@@ -17,7 +17,8 @@ Reflection on JavaScript
 <body>
 1/16/2019
 <br>
-As a assignment for ICS314, we were tasked to do what felt like a billion JavaScript practices on <a href="https://www.FreeCodeCamp.com>Free Code Camp</a>
+As a assignment for ICS314, we were tasked to do what felt like a billion JavaScript practices on 
+  <a href="https://www.FreeCodeCamp.com">Free Code Camp</a>
 Fortunately for me, this was not the first time coding in JavaScript. Unfortunately for me, the website was faulty and I had to redo half of the exercises.
 <img src = "jiajunk.github.io/images/javascript.PNG">
 The core of JavaScript was not too far off from Java, which made a lot of these exercises easier to process in my mind. 
