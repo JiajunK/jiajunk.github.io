@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-squarepng
+image: images/cotton-square.png
 title: Knex Kar Battle
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
