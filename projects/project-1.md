@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/airhocky.png
+image: /images/airhocky.png
 title: Air Hocky
 permalink: projects/airhocky
 # All dates must be YYYY-MM-DD format!
