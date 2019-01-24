@@ -24,7 +24,7 @@ Too often I will see people asking for help in the wrong community, such as aski
 Because the possibility of stupid questions is endless, I have decided to look at StackOverflow as a sole provider of good and bad questions a person can ask on the great internet.
 <h2>Say that again?</h2>
 Who would have thought frantically asking for help in a help forum is redundant and does not convey a good message? 
-User afraj morshed from this forum sure did. 
+  User afraj morshed from <a href = "https://stackoverflow.com/questions/54354379/please-show-ne-how-to-to-thismath-random-and-die-class">this forum</a> sure did. 
 I understand I will get a lot of hatred from this statement, but standard English is not that hard to achieve. 
 As someone who is evidently learning Java should already know this existence of this great invention called “spell check”. 
 Just by using correct spelling, the readability of the question improves drastically. 
@@ -33,7 +33,7 @@ Ignoring the spelling and grammatical errors, this post is still a train wreck. 
 It is a given fact that many people on stack overflow use it as a homework help medium, but the goal is to not let other people find out you are a useless 5th year ICS student struggling to set up a for loop. 
 <br>
 <h2>Good Question!</h2>
-Concise yet descriptive title, Nathan H posted a question which received 727 votes and 3.5 million views. 
+Concise yet descriptive title, Nathan H posted <a href="https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java">a question</a> which received 727 votes and 3.5 million views. 
 The language is specified, what this person tried is mentioned, and shows a general foundation of the knowledge. 
 People are much more willing to help someone who has given an attempt at researching the problem. 
 Questions like this could be googled by others who asks similar questions, making the visibility of this question much higher. 
