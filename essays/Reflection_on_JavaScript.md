@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflection on JavaScript
+title: What is JavaScript?
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-16
 labels:
@@ -11,7 +11,7 @@ labels:
 ---
 
 <h3>
-Reflection on JavaScript
+What is JavaScript?
 </h3>
 
 <p style="padding-right: 5px;">
