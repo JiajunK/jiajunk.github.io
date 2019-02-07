@@ -19,7 +19,7 @@ The format I was most comfortable in was Eclipse, which shared similarities and 
 <img src="/images/intelij.png">
 <br>
 <br>
-#Initialization
+<h3>Initialization</h3>
 
 <p>To start off, Intellij was an absolute nightmare. 
 There were countless amount of settings, options, and add-ons. 
@@ -29,7 +29,7 @@ Fortunately, I have timed the initial set up and it took me a total of 55 minute
 Compared with Eclipse, which would just run smoothly after the download, Intellij gave me a horrible first impression. </p>
 <br>
 <br>
-#Usage
+<h3>Usage</h3>
 
 <p> Usage wise, Intellij was neither horrible nor amazing. 
 As a beginner programmer, the most important function a workspace could have is to tell me what I am doing wrong. 
@@ -44,7 +44,7 @@ Whenever I hit the beautiful tidy up button, the code will automatically set it 
 <br>
 <br>
 
-#Overall
+<h3>Overall</h3>
 <p>
 Playing with Intellij and ESLint, there are no major complaints but no major excitement over it either. 
 Perhaps after using it a little more I will find more pros and cons for this application. 
