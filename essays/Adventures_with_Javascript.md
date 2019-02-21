@@ -16,7 +16,7 @@ For ICS 314, I was introduced to Intellij for the first time, and so far it has 
 The format I was most comfortable in was Eclipse, which shared similarities and differences with Intellij. </p> 
 <br>
 <br>
-<img src="/images/intelij.png">
+<img src="/images/intelij.png" width="500px">
 <br>
 <br>
 <h3>Initialization</h3>
