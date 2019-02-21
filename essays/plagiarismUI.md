@@ -29,7 +29,7 @@ labels:
 <p>As a practice, we were asked to recreate any webpage of our choice. One of my favorite fried chicken franchise, Popeyes, was my choice. The main webpage had some kinks that were hard to deal with, but overall still followed the three portion format. Hopefully, Popeyes will hire me as their web developer so I can receive free fried chicken. Regardless, Semantic UI was fun and rewarding to learn, with a minimal learning curve. </p>
 
 Official site:
-<img src="/images/popeye1.png" width="300px">
+<img src="/images/popeye1.PNG" width="300px">
 <img src="/images/popeye3.png" width="300px">
 
 My bootleg site:
