@@ -16,7 +16,7 @@ For ICS 314, I was introduced to Intellij for the first time, and so far it has 
 The format I was most comfortable in was Eclipse, which shared similarities and differences with Intellij. </p> 
 <br>
 <br>
-<img src="/images/intelij.png" width="500px">
+<img src="/images/intelij.png" width="300px">
 <br>
 <br>
 <h3>Initialization</h3>
@@ -40,7 +40,7 @@ and monsters who only care about condensing their lines of code.
 Whenever I hit the beautiful tidy up button, the code will automatically set it that the opening curly brace would be on the same line as the code (I know, horrible!).</p>
 <br>
 <br>
-<img src="/images/curly.jpg">
+<img src="/images/curly.jpg" width="300px">
 <br>
 <br>
 
