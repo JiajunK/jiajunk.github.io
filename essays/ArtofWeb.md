@@ -39,6 +39,7 @@ The more webs I studied the more complicated it got. There are different models,
     </p>
     <br>
 <br>
+    <p>
 Now if you will excuse me, I have some bugs on my web to take care of. 
   </p>
   
