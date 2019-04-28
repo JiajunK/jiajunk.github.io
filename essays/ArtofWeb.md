@@ -33,8 +33,11 @@ labels:
   </p>
   <br>
 <br>
+    <h3>Being a spider is tough</h3>
   <p>
 The more webs I studied the more complicated it got. There are different models, controlling the weave, and the presentation of the weave. Each component changes how the web will behave and look. Who knew something that has been around for so many years has such a complicated structure! I sure have much more to learn. 
+    </p>
+    <br>
 <br>
 Now if you will excuse me, I have some bugs on my web to take care of. 
   </p>
