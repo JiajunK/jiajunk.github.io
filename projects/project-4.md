@@ -38,7 +38,7 @@ The Akamai Nook can be used by anyone and offers a catalog of locations that one
 <p>
 The primary role I had was the landing page, the profile page, and the UI. Now the profile page have an icon the user can choose, Nooks they have added, and ability to change user password. Out of all those features user icon was by far the hardest thing. Changing password had many documentations online that I could refer to, and having Nooks they uploaded was also relatively easy to implement. However having a profile picture came out in my nightmares. Unfortunately in the final version, because master was corrupted, profile was missing the added nook feature. As for the UI, designing the logo, touching up color scheme, and going with a font theme was over all very fun. The artistic side of web design appealed to me a lot. 
 </p>
-<image src ="/images/profile.PNG">
+<image src ="/images/profile.PNG" width="500px">
 
 <br>
 <h3>Experience</h3>
@@ -49,7 +49,7 @@ This was the first time I was working on a GitHub project with other people, so 
 <br>
 <h3>Challenges</h3>
 <p>To begin, I have an upload speed of less than 1mbps.</p>
-<image src ="/images/ping.PNG">
+<image src ="/images/mbps.PNG">
 <br>
 <p>
 Normally, upload speed does not affect my productivity as much, however in our case, I was the person that was supposed to deploy the website. It took a whooping 30 minutes to get an connection error during deployment, and I gave three attempts before I had to finally give up and ask my team mates. Now normally this would not have a problem, but there was some difficulties getting the correct version of master branch for us. In the end there were many loose ends for the projects that I should have caught but ended up on the final deployment. 
