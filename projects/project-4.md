@@ -17,6 +17,7 @@ summary: A website for ICS 314
 <br>
 <br>
 <a href="http://akamainook.meteorapp.com">Akamai Nook application webpage</a>
+<br>
 <a href="https://akamainook.github.io/">Akamai Nook development webpage</a>
 
 <p>
