@@ -46,12 +46,19 @@
       "name": "Programing Languages",
       "level": "",
       "name": "Programming Languages",
+      "level": "Beginner",
+      "keywords": [
+        "SQL",
+        "Assembly"
+      ]
       "level": "Intermediate",
       "keywords": [
         "Java",
+        "C/C++",
         "Javascript",
-        "HTML"
-      ]
+        "HTML",
+        "CSS"
+      ]    
     },
     {
       "name": "Linguistic Languages",
@@ -71,12 +78,13 @@
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
-        "ICS 111: Introduction to Computer Science I",
-        "ICS 141: Discrete Mathematics I",
-        "ICS 211: Introduction to Computer Science II",
-        "ICS 241: Discrete Mathematics II",
+        "ICS 111 & 211: Introduction to Computer Science I & II",
+        "ICS 141 & 241: Discrete Mathematics I & II",
         "ICS 311: Algorithms",
+        "ICS 312: Machine-Lvl & Systems Programming"
         "ICS 314: Software Engineering"
+        "ICS 321: Database Systems"
+        "ICS 462: AI for Games"
       ]
     },
     {
