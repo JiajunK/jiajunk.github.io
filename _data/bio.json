@@ -46,16 +46,12 @@
     {
       "name": "Programing Languages",
       "level": "",
-      "name": "Programming Languages",
-      "level": "Beginner",
       "keywords": [
         "SQL",
-        "Assembly"
-      ],
-      "level": "Intermediate",
-      "keywords": [
+        "Assembly",
         "Java",
-        "C/C++",
+        "C",
+        "C++",
         "Javascript",
         "HTML",
         "CSS"
@@ -63,7 +59,7 @@
     },
     {
       "name": "Linguistic Languages",
-      "level": "",
+      "level": "Fluent",
       "keywords": [
         "Japanese",
         "Mandarin"
