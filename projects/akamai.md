@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/landing.PNG
 title: Akamai Nook
-permalink: projects/cotton
+permalink: projects/akamai
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-08
 labels:
