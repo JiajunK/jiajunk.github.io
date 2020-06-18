@@ -3,17 +3,17 @@ layout: project
 type: project
 image: images/airhocky.PNG
 title: Air Hocky
-permalink: projects/airhocky
+permalink: projects/airhockey
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-10
 labels:
   - College Project
   - Java
-summary: My team developed a simple air hocky game on Eclipes.
+summary: My team developed a simple air hockey game on Eclipes.
 ---
 <img src="/images/airhocky.PNG"> 
 <br>
-My first major project as an ICS student was creating an air hocky game using Java. Five month prior to creating this project I only learned how to print Hello World with Java. Fortunately with the help of some outside libraries and my awesome professors and TAs, I was able to complete a project such as this one. Hopefully this game will be a good guideline to see my development and growth as a programmer. 
+My first major project as an ICS student was creating an air hockey game using Java. Five month prior to creating this project I only learned how to print Hello World with Java. Fortunately with the help of some outside libraries and my awesome professors and TAs, I was able to complete a project such as this one. Hopefully this game will be a good guideline to see my development and growth as a programmer. 
 <br>
 The game is controlled by two players on the same computer, one controlling wasd and one controlling ijkl. The objective is to score more point thatn the other person before the timer runs out.
 <br>
