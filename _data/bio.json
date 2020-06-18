@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jiajun Kang",
     "label": "ICS and Japanese undergraduate student",
-    "picture": "/profilePic.jpg",
+    "picture": "/linkedinprofile1.png",
     "email": "jiajunk@hawaii.edu",
     "phone": "808-237-0178",
     "website": "https://jiajunk.github.io",
-    "summary": "I am double majoring in B.S. in Computer Science and B.A. Japanese at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "Double major in B.S. Computer Science and B.A. Japanese at the University of Hawaii. Expected to graduate in Spring 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -41,18 +41,26 @@
       "keywords": [
       ]
     }
-  ],
+  ]
+},
   "skills": [
     {
       "name": "Programing Languages",
       "level": "",
       "name": "Programming Languages",
+      "level": "Beginner",
+      "keywords": [
+        "SQL",
+        "Assembly"
+      ]
       "level": "Intermediate",
       "keywords": [
         "Java",
+        "C/C++",
         "Javascript",
-        "HTML"
-      ]
+        "HTML",
+        "CSS"
+      ]    
     },
     {
       "name": "Linguistic Languages",
@@ -72,12 +80,11 @@
       "endDate": "Present",
       "gpa": "3.75",
       "courses": [
-        "ICS 111: Introduction to Computer Science I",
-        "ICS 141: Discrete Mathematics I",
-        "ICS 211: Introduction to Computer Science II",
-        "ICS 241: Discrete Mathematics II",
         "ICS 311: Algorithms",
+        "ICS 312: Machine-Lvl & Systems Programming"
         "ICS 314: Software Engineering"
+        "ICS 321: Database Systems"
+        "ICS 462: AI for Games"
       ]
     },
     {
