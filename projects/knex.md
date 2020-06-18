@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/knex.jpg
 title: Knex Kar Battle
-permalink: projects/cotton
+permalink: projects/knex
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-08
 labels:
