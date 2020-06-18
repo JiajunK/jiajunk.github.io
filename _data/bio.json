@@ -51,7 +51,7 @@
       "keywords": [
         "SQL",
         "Assembly"
-      ]
+      ],
       "level": "Intermediate",
       "keywords": [
         "Java",
@@ -80,9 +80,9 @@
       "gpa": "3.75",
       "courses": [
         "ICS 311: Algorithms",
-        "ICS 312: Machine-Lvl & Systems Programming"
-        "ICS 314: Software Engineering"
-        "ICS 321: Database Systems"
+        "ICS 312: Machine-Lvl & Systems Programming",
+        "ICS 314: Software Engineering",
+        "ICS 321: Database Systems",
         "ICS 462: AI for Games"
       ]
     },
