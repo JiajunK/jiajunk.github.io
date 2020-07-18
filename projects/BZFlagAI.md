@@ -14,6 +14,7 @@ summary: An improvement to the exisiting AI for BZFlag
 
 <h2>BZFlag AI</h2>
 <br>
+<img src="/images/bzflag.png"> 
 <br>
 <a href="https://github.com/JiajunK/BZFlag-Robots">Link to the project page</a>
 <br>
