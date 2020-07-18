@@ -24,7 +24,7 @@ summary: An improvement to the exisiting AI for BZFlag
 <h3>Language and Program</h3>
 <p>This game was compiled within Microsoft Visual Studios, using C++. The original source code for the game is available <a href="https://www.bzflag.org/">here</a>.</p>
 <h3>Changes made</h3>
-<p>The original AI we had to modify had limited functionalities. This project was done by myself and one other team member. Here are the list of things we have implemented for this project:</p>
+<p>The original AI we had to modify had limited functionalities. This project was done by myself and one other team member. Here are the major changes we have implemented for this project:</p>
 <ul>
 <li>A* search algorithm</li>
 <li>Alignment, Cohesion, and Separation behaviors</li>
