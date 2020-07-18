@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bzflag.PNG
+image: images/bzflag.png
 title: BZFlag AI Improvement
 permalink: projects/BZFlagAI
 # All dates must be YYYY-MM-DD format!
@@ -29,4 +29,5 @@ summary: An improvement to the exisiting AI for BZFlag
 <li>Alignment, Cohesion, and Separation behaviors</li>
 <li>Decision tree</li>
 </ul>
-
+<h3>Takeaway</h3>
+<p>Modifying an existing game was extremely difficult. I had to learn the structure of the original code and how each object interacts with each other. This project allowed me to put my C++ programming skill into use, as well as get a small taste of what video game AI is. If I were to redo this project, I would consider different pathfinding algorithms beside A*, as well as changing the entire movement controls for this game. </p>
