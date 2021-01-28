@@ -5,7 +5,7 @@ image: images/ar-map.png
 title: Tiki Defense AR Game
 permalink: projects/tikiDefense
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-27
+date: 2021-01-27
 labels:
   - C++
   - Vuforia
