@@ -13,6 +13,7 @@ labels:
 <p> This is an essay I wrote entriely in Chinese about how having a home surrounded with "smart" things may not be a smart idea. </p>
 <img src="/images/medium01.jpg" width = "400px">
 <br>
+<h3> 人类与冰箱的进展 </h3>
 <p>
   二十一世纪的科技成果让人们惊讶。人类已发明到无法想象的程度，
   恐怕上帝都阻止不了人类发展。现代，现在，这个时刻最火的发明就是智能冰箱。
