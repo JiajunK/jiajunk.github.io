@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Evolution of Human and Refrigerators
+title: 人类与冰箱的进展
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-24
 labels:
@@ -9,11 +9,11 @@ labels:
   - IoT
   - Essay
 ---
-<h3>Chinese Writing Sample</h3>
-<p>This is a Chinese essay about smart refrigerators and the potential dangers of them. </p>
-<img src="/images/medium01.jpg" width = "300px">
 <h3>人类与冰箱的进展</h3>
-<p>二十一世纪的科技成果让人们惊讶。人类已发明到无法想象的程度，
+<img src="/images/medium01.jpg" width = "400px">
+<br>
+<p>
+  二十一世纪的科技成果让人们惊讶。人类已发明到无法想象的程度，
   恐怕上帝都阻止不了人类发展。现代，现在，这个时刻最火的发明就是智能冰箱。
   这人见人爱的冰箱不单单外表美丽，操作方便，还可以连接到用户的手机上。
   对于经常忘记日程的人来说这个冰箱可是生命救主。这地球上几乎没有能和智能冰箱可比的科技。
