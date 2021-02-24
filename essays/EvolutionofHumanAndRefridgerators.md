@@ -9,7 +9,9 @@ labels:
   - IoT
   - Essay
 ---
-<h1>人类与冰箱的进展</h1>
+<h3>Chinese Writing Sample</h3>
+<p>This is a Chinese essay about smart refridgerators and the potential dangers of them. </p>
+<h3>人类与冰箱的进展</h3>
 <p>二十一世纪的科技成果让人们惊讶。人类已发明到无法想象的程度，
   恐怕上帝都阻止不了人类发展。现代，现在，这个时刻最火的发明就是智能冰箱。
   这人见人爱的冰箱不单单外表美丽，操作方便，还可以连接到用户的手机上。
