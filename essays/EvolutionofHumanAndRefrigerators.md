@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Evolution of Human and Refridgerators
+title: Evolution of Human and Refrigerators
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-24
 labels:
@@ -10,7 +10,7 @@ labels:
   - Essay
 ---
 <h3>Chinese Writing Sample</h3>
-<p>This is a Chinese essay about smart refridgerators and the potential dangers of them. </p>
+<p>This is a Chinese essay about smart refrigerators and the potential dangers of them. </p>
 <h3>人类与冰箱的进展</h3>
 <p>二十一世纪的科技成果让人们惊讶。人类已发明到无法想象的程度，
   恐怕上帝都阻止不了人类发展。现代，现在，这个时刻最火的发明就是智能冰箱。
