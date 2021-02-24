@@ -8,9 +8,10 @@ labels:
   - Chinese
   - IoT
   - Essay
+  - Cyber Security
 ---
 <h3> Evolution of Human and Refrigerators</h3>
-<p> This is an essay I wrote entriely in Chinese about how having a home surrounded with "smart" things may not be a smart idea. </p>
+<p> This is an essay I wrote entirely in Chinese about how having a home surrounded with "smart" things may not be a smart idea. My main takeaway regarding smart-product is: 人们不应该害怕新科技，而是要明白怎么可以保护自我。We should not fear new technology, but we should understand how to protect ourselves.</p>
 <img src="/images/medium01.jpg" width = "400px">
 <br>
 <h3> 人类与冰箱的进展 </h3>
