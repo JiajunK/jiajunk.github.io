@@ -8,6 +8,7 @@ labels:
   - Chinese
   - IoT
   - Essay
+summary: A Chinese writing sample about dangers of smart fridges
 ---
 <h3>人类与冰箱的进展</h3>
 <img src="/images/medium01.jpg" width = "400px">
