@@ -11,6 +11,7 @@ labels:
 ---
 <h3>Chinese Writing Sample</h3>
 <p>This is a Chinese essay about smart refrigerators and the potential dangers of them. </p>
+<img src="/images/medium01.jpg" width = "300px">
 <h3>人类与冰箱的进展</h3>
 <p>二十一世纪的科技成果让人们惊讶。人类已发明到无法想象的程度，
   恐怕上帝都阻止不了人类发展。现代，现在，这个时刻最火的发明就是智能冰箱。
@@ -52,3 +53,4 @@ labels:
   比如一百年前发明的电话到现在还是有不同的诈骗方法。能学会怎么跟科技一块成长就是现代的难题。
   一旦人类能深度理解如何保护自身，就可以张开双臂张开钱包购买8000美元的智能冰箱。
 </p>
+<br>
