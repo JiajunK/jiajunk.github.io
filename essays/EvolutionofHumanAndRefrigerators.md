@@ -8,8 +8,9 @@ labels:
   - Chinese
   - IoT
   - Essay
-summary: A Chinese writing sample about dangers of smart fridges
 ---
+<h3> Evolution of Human and Refrigerators</h3>
+<p> This is an essay I wrote entriely in Chinese about how having a home surrounded with "smart" things may not be a smart idea. </p>
 <img src="/images/medium01.jpg" width = "400px">
 <br>
 <p>
@@ -22,7 +23,6 @@ summary: A Chinese writing sample about dangers of smart fridges
   这么危险的冰箱怎么还会有人购买呢？多半的客户不会想到一个冰箱会不安全，
   只会集中在冰箱的好处。因为智能冰箱优点极多，冰箱的技能和外表会掩盖所有担心。
 </p>
-<br>
 <p>
   从很久以前开始，人类的最大梦想就是能够关着冰箱门也知道冰箱内容。智能冰箱有玻璃门，
   敲两下，冰箱就会显示里面的菜。这样就再也不用担心开着冰箱门把里面冷气散发掉。
@@ -33,7 +33,6 @@ summary: A Chinese writing sample about dangers of smart fridges
   牛奶不够了？智能冰箱可以通知全家冰箱里少了什么东西，从此以后买菜也简简单单。煮饭的时候无聊，
   没有事情做？智能冰箱可以播放电视频道。这个人见人爱的冰箱表面上没有任何缺点。
 </p>
-<br>
 <p>
   这么爱不释手的冰箱其实也有残酷的真实。每样连接到网络的机器都有黑客危险。
   智能冰箱能连接到用户的日程，就会有危险第三者知道用户每一刻会在哪里。
@@ -45,9 +44,8 @@ summary: A Chinese writing sample about dangers of smart fridges
   黑客要从会被轻易忽略掉的电器攻击系统。虽然黑客攻击一般家户网络的可能性很低，但是办公室和商业非常可能会成为目标。
   还有一种危险就是黑客可以把屏幕录下来，记录用户名和密码。因为很多人在不同的服务上用一样的用户名和密码，只要有一个账号，
   黑客可以简易的登录到银行，信用卡，或者别的私人账号。一旦账号和密码漏出来，再好的冰箱也保护不了用户了。
-  </p>
-  <br>
-  <p>
+</p>
+<p>
   这么美好的科技也有负面作用，果然人类发展还不够成熟。难道为了安全只能放弃我们备尝艰苦发明的冰箱吗？
   其实不是的。就像电脑和手机，只要常常更新软件，家里无线网络有密码，日历账号多换密码，还是可以安全地使用智能冰箱。
   自从1982年科学家就已经开始谈起不同的智能电器的可能性。现代人类把这些连接到网络上的设备称作物联网。
