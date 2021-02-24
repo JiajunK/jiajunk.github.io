@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/defaultBee.png
+image: images/defaultbee.png
 title: Bees
 permalink: projects/bees
 # All dates must be YYYY-MM-DD format!
