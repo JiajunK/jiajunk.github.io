@@ -10,6 +10,7 @@ labels:
   - React
   - Environment
 ---
+<image src="/images/logo2.png">
 <p>In my final semester of college I was tasked with seven other students to create an interactive web page that can track the carbon emissions of people driving to and from work every day. This application was done with JavaScript, SemanticUI, React, and Meteor. The concept was simple, each student will take care of a component, and we will merge the changes together every two weeks when the milestones are due. However, due to this being a pandemic semester, things were not as easy as we thought. </p>
 
 <h3>Pandemic Learning</h3>
